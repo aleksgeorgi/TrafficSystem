@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+application {
+    mainClassName = 'Main' // Ensure this points to your main class
+}
+
+tasks.withType(Test) {
+    enabled = false
+}
