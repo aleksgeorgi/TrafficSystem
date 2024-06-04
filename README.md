@@ -1,8 +1,10 @@
 # Traffic Ticketing System
+created 06.04.2024    
+
 ## Author
 Aleksandra Georgievska  
 aleksgeorgi@gmail.com  
-created 06.04.2024  
+
 
 ## Description
 A Java application to manage traffic tickets issued by police officers. It includes functionalities to issue tickets, calculate fines, and view issued tickets.
